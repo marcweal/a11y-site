@@ -152,6 +152,7 @@ body {
   background-color: #460e19 !important;
   border-color: #460e19 !important;
   color: #ffffff !important;
+  text-decoration: none;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -160,6 +161,7 @@ body {
   color: #460e19 !important;
   background-color: #ffffff !important;
   border-color: #460e19 !important;
+  text-decoration: none;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
@@ -552,7 +554,7 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #ff7f9f;
+  color: #460e19;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -2628,4 +2630,9 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
+}
+
+.footer {
+  display: inline-block;
+  padding: 5px;
 }
