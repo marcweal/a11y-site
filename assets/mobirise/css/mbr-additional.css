@@ -159,7 +159,7 @@ body {
 .btn-primary.active {
   color: #460e19 !important;
   background-color: #ffffff !important;
-  border-color: #ffffff !important;
+  border-color: #460e19 !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
