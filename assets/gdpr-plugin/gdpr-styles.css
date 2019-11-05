@@ -19,3 +19,11 @@
     margin-bottom: 0;
     display: inline;
 }
+.gdpr-block label a {
+    color: #e9059d;
+    text-decoration: underline;
+}
+.gdpr-block label a:hover {
+    color: #fd4cfd;
+    text-decoration: none;
+}
